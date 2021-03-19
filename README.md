@@ -13,3 +13,9 @@
 
 - Getting started https://www.fastify.io/docs/latest/Getting-Started/
 - пример как прочитать запрос клиента https://www.fastify.io/docs/latest/Request/
+
+## Клиент
+
+```
+browser-sync start --server .  --files .
+```
